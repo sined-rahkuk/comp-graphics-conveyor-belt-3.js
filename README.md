@@ -4,4 +4,4 @@ This project contains our work related to the school course called **Computer Gr
 
 # Topic we've chosen
 
-This project represents our progress on topic "Simulation of Grocery conveyor"
+This project represents our progress on topic ***Simulation of Grocery conveyor*** 
